@@ -1,0 +1,11 @@
+Model Information:
+* title:	DeLorean DMC12 || Retro wave art
+* source:	https://sketchfab.com/3d-models/delorean-dmc12-retro-wave-art-6b18d3a8859749379987380bf2ac34ab
+* author:	dark_igorek (https://sketchfab.com/dark_igorek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DeLorean DMC12 || Retro wave art" (https://sketchfab.com/3d-models/delorean-dmc12-retro-wave-art-6b18d3a8859749379987380bf2ac34ab) by dark_igorek (https://sketchfab.com/dark_igorek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
